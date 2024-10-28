@@ -1,8 +1,4 @@
-<!-- FOOTER -->
-    <footer class="text-center">
-        <div class="footer-below">
-            <div class="container">
-                Created by <a href="">Billing </a> System
-            </div>
-        </div>
-    </footer>
+<div class="container">
+<hr>
+<p class="centered">Created by <a href=""><b></b></a>  <b>E-billing Pritam & Hemant in 2024</b></p>
+</div>
